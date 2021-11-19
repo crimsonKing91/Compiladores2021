@@ -1,2 +1,3 @@
 
-# Compiladores2021
+# Practica 1 
+## Algoritmo de los subconjuntos

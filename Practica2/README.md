@@ -1,1 +1,1 @@
-Algoritmo Thomsom
+# Algoritmo Thompson
